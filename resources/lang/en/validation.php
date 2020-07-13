@@ -117,7 +117,8 @@ return [
     'uploaded' => 'The :attribute failed to upload.',
     'url' => 'The :attribute format is invalid.',
     'uuid' => 'The :attribute must be a valid UUID.',
-
+    'alpha_num_space'      => 'The :attribute may only contain letters, numbers space.',
+    'alpha_num'      => 'The :attribute may only contain letters, numbers.',
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
